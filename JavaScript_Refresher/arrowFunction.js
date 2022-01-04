@@ -4,6 +4,7 @@ const sum = (num) => {
 
 console.log(sum(5));
 
+
 const multiply = num => num * 2 // versão reduzida com um parâmetro
 
 console.log(multiply(5));

@@ -19,10 +19,21 @@ Seção 3: Básico do React & Trabalhando com componentes
 - React é todo baseado em componentes.
 - Toda UI são componentes.
 - Componentes são blocos de construção reutilizáveis usando HTML e JS.
-- Reutilização, Separação de conceitos.
 - Criando um novo projeto (npx create-react-app nome-projeto).
 - Introdução ao JSX.
 - Como funciona o React.
 - Criando um componente customizável.
+- Por que Componentes? (
+    - Reutilização (Não se repita).
+    - Separação de Conceitos (Não faça a mesma coisa no mesmo lugar (funções).)
+    - Separe grandes pedaços de código em pequenas funções.
+)
+- Adicinando CSS.
+- Trabalhando com expressões no JSX.
+- Passando dados via "props".
+- Adicionando lógica JS aos componentes.
+
+
+
 
 

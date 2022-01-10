@@ -33,6 +33,9 @@ Seção 3: Básico do React & Trabalhando com componentes
 - Passando dados via "props".
 - Adicionando lógica JS aos componentes.
 
+Seção 4: React State & Trabalhando com eventos
+- 
+
 
 
 
